@@ -26,6 +26,8 @@
     flashButton.clickBlock = ^{
         NSLog(@"clickBlockclickBlockclickBlock");
     };
+    
+    
     [self.view addSubview:flashButton];
 }
 
